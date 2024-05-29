@@ -1,4 +1,4 @@
-export const BASE_URL = "https://nastavnik.36-web.nomoredomainswork.ru";
+export const BASE_URL = "https://kibersiten.nomorepartiesco.ru/api";
 /* /api */
 
 export const endpoints = {
