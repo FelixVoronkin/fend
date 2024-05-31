@@ -1,1 +1,1 @@
-Мой бэкенд:https://kibersiten.nomorepartiesco.ru
+Мой бэкенд:https://mybend.nomorepartiesco.ru
