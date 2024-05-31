@@ -1,4 +1,4 @@
-export const BASE_URL = "https://kibersiten.nomorepartiesco.ru/api";
+export const BASE_URL = "https://mybend.nomorepartiesco.ru/api";
 /* /api */
 
 export const endpoints = {
@@ -6,3 +6,4 @@ export const endpoints = {
   auth: `${BASE_URL}/auth/login`,
   me: `${BASE_URL}/me`,
 };
+
